@@ -1,5 +1,5 @@
 # Akselerasi-FE12
-Playground Week 6 Sesi 1 Materi FE 11 Storybook
+Playground Week 6 Sesi 2 Materi FE 12 Node Crypto
 
 Documentation for Key Length **createChiperiv**
 ```javascript
